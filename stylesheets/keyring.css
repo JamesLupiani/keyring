@@ -19,6 +19,10 @@
     color: red;
 }
 
+.keyring-password {
+    font-family: monospace;
+}
+
 #dates-row {
     font-size: medium;
     font-stretch: condensed;
